@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled 
+a4f339c14fd15cb91a67b2cbdbf749fc0b12a695 refs/heads/135-revert
+7c3be165cc4292d5e62d4c0a32a0e563fd2db99c refs/heads/CLOUD-1269
+01d9e7470950d3cad0a3809bd89131c449cbc85c refs/heads/master
+6094c040d3ee8e0630ec851fe531663de8326094 refs/heads/release/6.0.0
+c34f6984ebda475c136c42c859cb9c4d3c24bfb1 refs/heads/stable
+3daf7f0f16afd78fbf28a62368af25ab56ec2e85 refs/tags/6.5.0
+3c40a5db61dfb8a15bf9673900d6eda7ffc4da24 refs/tags/6.5.1
+c34f6984ebda475c136c42c859cb9c4d3c24bfb1 refs/tags/7.0.0-M1
